@@ -1,7 +1,7 @@
 Package: acl
 Filename: acl_2.2.53_arm.ipk
-Size: 27278
-SHA256sum: 1bee3e2e5f8cb51a0d660dc192fe9eca52d5de7bd81c253fe6731240da62236b
+Size: 27292
+SHA256sum: 57ed772f8d3838c164a5420e4643dc2becde127bd40fcbe48b9f783f51434a98
 Description: Utilities to administer Access Control Lists, ACL.
 Version: 2.2.53
 Depends: gettext, attr, ipkg
@@ -13,8 +13,8 @@ Maintainer: jcard
 
 Package: alsa-lib
 Filename: alsa-lib_1.2.3.2_arm.ipk
-Size: 386360
-SHA256sum: a30a504779d150680d31a04af14f106cdce4fd06613332355d31e17c0a9d97e4
+Size: 386460
+SHA256sum: 44c33297370ff58343ae98fd0e6ea1a19a1866933ff1b3862203f1531068f608
 Description: The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality.
 Version: 1.2.3.2
 Depends: ipkg, kernel-modules
@@ -26,8 +26,8 @@ Maintainer: jcard
 
 Package: alsa-utils
 Filename: alsa-utils_1.2.3_arm.ipk
-Size: 1072517
-SHA256sum: 2e657dc8043459a2ca37896b49002128f8eed2e51531e6df6dca32f251f4f1bd
+Size: 1072491
+SHA256sum: 5f0a59533a760a22f9fe57c5a566ce504e9ee56e43301c3b4b18a7544e1eabc7
 Description: Command line utilities for the ALSA project.
 Version: 1.2.3
 Depends: ncurses-panel, ncurses-form, ncurses-menu, alsa-lib, ipkg
@@ -39,8 +39,8 @@ Maintainer: jcard
 
 Package: alt-f-utils
 Filename: alt-f-utils_0.1.11_arm.ipk
-Size: 33056
-SHA256sum: 96f2c8e0d55cc7a593d21e22eeffe5db30184275749bdddc95d9ccccbd39143b
+Size: 33063
+SHA256sum: 315a10c68ef6e52455003c5092e3646f1f483fd9c2097f12e33a7e92a93b62a6
 Description: Provides leds, buttons, temperature, fan control and firmware file creation/splitting
 Version: 0.1.11
 Depends: ipkg
@@ -52,8 +52,8 @@ Maintainer: jcard
 
 Package: apr-util
 Filename: apr-util_1.6.1_arm.ipk
-Size: 82292
-SHA256sum: aaa5031dc7502372c294eb2fdd26ad84a3dfbcfa088dcddb82dd03f4a70358cf
+Size: 82272
+SHA256sum: bd963605a8660b8e67c5c6bccf50758a730ff25d3a253653280c9b8d475ccf1d
 Description: The utility library for the apache runtime project
 Version: 1.6.1
 Depends: apr, expat, db, sqlite, ipkg
@@ -65,8 +65,8 @@ Maintainer: jcard
 
 Package: apr
 Filename: apr_1.7.0_arm.ipk
-Size: 77739
-SHA256sum: 8bc0dce7ae8f1d6110a21f24af378b8daf8135b8b96ad01d077b8faebdf007d3
+Size: 77706
+SHA256sum: 90aabb5efa02e04adb9c6a706f318bdc21a49f3627bc99245307f48cde90406f
 Description: The Apache Portable Runtime (APR) project
 Version: 1.7.0
 Depends: ipkg
@@ -78,8 +78,8 @@ Maintainer: jcard
 
 Package: at
 Filename: at_7c74fa1aece6bc6db351763dc012193d5d634b7e_arm.ipk
-Size: 26138
-SHA256sum: 6239d1e8618505c00bbbe5177d5b455b8f2d5985ecf4a716892998c5b4151fb5
+Size: 26131
+SHA256sum: 82adaa107f81b57d22850395210d81b149909f2803cd45ba7faea563e4e4e6dc
 Description: Delayed job execution and batch processing
 Version: 7c74fa1aece6bc6db351763dc012193d5d634b7e
 Depends: msmtp, ipkg
@@ -91,8 +91,8 @@ Maintainer: jcard
 
 Package: attr
 Filename: attr_2.4.48_arm.ipk
-Size: 14450
-SHA256sum: 5f4963cfce259da45815701b151e96ad22a45a535baa8ba6f53af44248cd5c8d
+Size: 14452
+SHA256sum: dbf14d5010ef4b981beff13c1ce76cdc81b950511385980594f090b85cf0ae95
 Description: Utilities to administer the extended attributes on filesystem objects
 Version: 2.4.48
 Depends: ipkg
@@ -104,8 +104,8 @@ Maintainer: jcard
 
 Package: aufs
 Filename: aufs_aufs5.4.3_arm.ipk
-Size: 645
-SHA256sum: 93ac73607ab4c1ad3f8b24a3afbfb32ccfb3c31ad9ec52da4135fe6452beadb6
+Size: 642
+SHA256sum: 9e5fedbcdd9f7e96bd87d31249915f314e05e1aa93c1915ec3ae0103e15fce34
 Description: advanced multi-layered unification filesystem
 Version: aufs5.4.3
 Depends: ipkg
@@ -119,8 +119,8 @@ Package: avahi
 Version: 0.8
 Depends: libglib2, dbus, libdaemon, ipkg
 Filename: avahi_0.8_arm.ipk
-Size: 212545
-SHA256sum: 51f27f782db65a0de87128ad7004dce2c8dfe5768ac27c84cc70b7f036833d67
+Size: 212614
+SHA256sum: 0a77609659d3b6853921b743cee61f4475917a938d290321e3d8e6404645a3b5
 Description: A system which facilitates service discovery on a local network.
 Architecture: arm
 Priority: optional
@@ -130,8 +130,8 @@ Maintainer: jcard
 
 Package: bctoolbox
 Filename: bctoolbox_4.3.1_arm.ipk
-Size: 67015
-SHA256sum: b376750d9b38ef7e2b67d057a5a0a3f402fdce407c291e8fbd55fc65294f1518
+Size: 66995
+SHA256sum: fa59d33528eb2b333f1d367fb184efebbc2acaf625117511254058c488c05d2c
 Description: 	  Utilities library used by Belledonne Communications
 	  softwares like belle-sip, mediastreamer2 and linphone.
 	  Select BR2_PACKAGE_MBEDTLS for crypto support.
@@ -146,8 +146,8 @@ Maintainer: jcard
 
 Package: berkeleydb
 Filename: berkeleydb_5.3.28_arm.ipk
-Size: 1198616
-SHA256sum: 61ad643f22ac37b30f4a08a7d862e6e828029911775a39d4de7aba9eddd152ff
+Size: 1198613
+SHA256sum: 7b9a0f60bddc674ddb2a2c30f95ee363773dd0377230472d852246827c6f426f
 Description: 	  The Berkeley database. A very common library for database
 	  applications.
 	  http://www.sleepycat.com/products/db.shtml
@@ -161,8 +161,8 @@ Maintainer: jcard
 
 Package: bonnie
 Filename: bonnie_1.03e_arm.ipk
-Size: 21030
-SHA256sum: 5678ddce9db86c7827f5c1c89af89154b610bb64d18fd78fd4ddc96e94418acd
+Size: 20967
+SHA256sum: 064609c2fc6014513ed4c61e649928cb3c8bf502abb86a6119bf2972c5b7f601
 Description: 	  A benchmark suite that is aimed at performing a number of
 	  simple tests of hard drive and file system performance.
 	  http://www.coker.com.au/bonnie++/
@@ -176,8 +176,8 @@ Maintainer: jcard
 
 Package: bridge-utils
 Filename: bridge-utils_1.7_arm.ipk
-Size: 11650
-SHA256sum: dcd49bc10fa82a2774370120c9b40b621e02904a31f40422614b9cd60d9d46a9
+Size: 11641
+SHA256sum: daf4a85299989daf566c0be0a58c9d6a4077048bb635a852670eb2b04578bc38
 Description: 	  Manage ethernet bridging; a way to connect networks together to
 	  form a larger network.
 	  https://git.kernel.org/cgit/linux/kernel/git/shemminger/bridge-utils.git/
@@ -191,8 +191,8 @@ Maintainer: jcard
 
 Package: btrfs-progs
 Filename: btrfs-progs_5.6_arm.ipk
-Size: 2511347
-SHA256sum: b2ad0c15f3d02391614e0f592a8ea5e6275379a527c85e78a00fab56d2ccfc88
+Size: 2511337
+SHA256sum: ad932faf99993b4a741bc0748791291de92b1af78e38cd4f4ceba5e136cd12d6
 Description: Utility programs for Btrfs, a new copy on write (CoW) filesystem
 Version: 5.6
 Depends: kernel-modules, zlib, lzo, e2fsprogs, attr, acl, ipkg
@@ -204,8 +204,8 @@ Maintainer: jcard
 
 Package: bzip2
 Filename: bzip2_1.0.8_arm.ipk
-Size: 137732
-SHA256sum: ae428377c6e456a74477101e2cdd637637cd8ab9f4f5055930d0017eeb7392fd
+Size: 137615
+SHA256sum: 486ac6b0daf5b2b0ea48a37eba08c7c60d8f7a2ce6fbec769afd7516f0db8379
 Description: Freely available, patent free, high-quality data compressor.
 Version: 1.0.8
 Depends: ipkg
@@ -218,7 +218,7 @@ Maintainer: jcard
 Package: cifs-utils
 Filename: cifs-utils_6.10_arm.ipk
 Size: 21395
-SHA256sum: a553181ea5d0bcca173d1420929bf57b1fac3e5a1d29bfcc33366fb7368ed294
+SHA256sum: d4f657ea59be1ea4494f483aa7aff92a5c488996dc6e5fcfa3f7ba2897b582c0
 Description: Tools for managing Linux CIFS client mounts	  
 Version: 6.10
 Depends: ipkg
@@ -231,8 +231,8 @@ Maintainer: jcard
 Package: cups
 Version: 2.3.3
 Filename: cups_2.3.3_arm.ipk
-Size: 4987401
-SHA256sum: e8dfa4021a8dbdcfaa21ec818039706ce3bc988f01e8797b6b7653b2f164c453
+Size: 4987294
+SHA256sum: ccb9b9a1db006b5202197cf91537aa8c1d02fd39d369e96f088788a0f05d9c32
 Description: The Common Unix Printing System
 Depends: gs, libusb, ipkg
 Architecture: arm
@@ -243,8 +243,8 @@ Maintainer: jcard
 
 Package: curl
 Filename: curl_7.71.1_arm.ipk
-Size: 233004
-SHA256sum: 6ab4d528e207cb344a3707b4122573706e38e94efe9bb03f94e6a9e9d3f0b880
+Size: 232972
+SHA256sum: b705e6daa1a8b4d384fb956ade5fdd8c5f489ee579c535b9444648f04290ee66
 Description: A tool for getting files from FTP, HTTP, Gopher,
  Telnet, and Dict servers, using any of the supported protocols.
 Depends: ipkg
@@ -257,8 +257,8 @@ Maintainer: jcard
 
 Package: dbus
 Filename: dbus_1.12.18_arm.ipk
-Size: 221596
-SHA256sum: a8bfa95b6cbc3a6869e6066e881408a05a1ab35b051e64b005ba463ebd845737
+Size: 221589
+SHA256sum: ba37423b7e06668ec2bd07a9732a9fc4e14fdb8b273ba3000ec874548d6f2704
 Description: The D-Bus message bus system.
 Version: 1.12.18
 Depends: expat, ipkg
@@ -270,8 +270,8 @@ Maintainer: jcard
 
 Package: dialog
 Filename: dialog_1.3-20200327_arm.ipk
-Size: 83292
-SHA256sum: c0c2f4bc243cdd84e341ca367ef9c142938f2389ba99b141ce73227abb3380b5
+Size: 83232
+SHA256sum: 6882441bbcf382545cc33d8cf5903167fc6aae3a8b0e14149495421dfd0afb53
 Description: Display dialog boxes from shell scripts
 Version: 1.3-20200327
 Depends: ncurses, ipkg
@@ -283,8 +283,8 @@ Maintainer: jcard
 
 Package: dnsmasq
 Filename: dnsmasq_2.81_arm.ipk
-Size: 140387
-SHA256sum: 12b25df36b831b3c465c61b53ec53ba07e943543b4e92789afd21db014f90b73
+Size: 140400
+SHA256sum: 32194c08cea42ac0d58d60f70429d2e8c271f7fa256248d7bddfcbd0b300b5eb
 Description: A lightweight DNS and DHCP server.
 Version: 2.81
 Depends: ipkg
@@ -296,8 +296,8 @@ Maintainer: jcard
 
 Package: dosfstools
 Filename: dosfstools_4.1_arm.ipk
-Size: 22817
-SHA256sum: 0b9af5bed82a3b2f6e6ac4944f239e013fe82393e9c6ee97ce4370d94c7494cd
+Size: 22815
+SHA256sum: 210d056c48d793fc56944c0a00d0d79a15856569a81a5e695b31ecb0c8397948
 Description: Tools for creating and checking DOS FAT filesystems.
 Version: 4.1
 Depends: ipkg
@@ -309,8 +309,8 @@ Maintainer: jcard
 
 Package: dropbear
 Filename: dropbear_2020.80_arm.ipk
-Size: 111592
-SHA256sum: 8340aaae7948ba92d29fc33a84ca8697322d1ff385170127ec1f81525227e38e
+Size: 111594
+SHA256sum: eadf8e52f4ae6ae69d2f44529826d87d8b77961bee309493ef45217ad078d67b
 Description: A small SSH2 server designed for small memory environments.
 Version: 2020.80
 Depends: ipkg
@@ -322,8 +322,8 @@ Maintainer: jcard
 
 Package: e2fsprogs
 Filename: e2fsprogs_1.45.6_arm.ipk
-Size: 476439
-SHA256sum: 5a38f217a982e3e3b03abe9a1c218274cbd3b5a7ce5181d9978cae3501abf3af
+Size: 476481
+SHA256sum: 49183943237ae730267bcfdd8a3524a5f120dc18718680893f6b1bdf5c45a303
 Description: The EXT2/3/4 file system utilities and libraries
 Version: 1.45.6
 Depends: ipkg
@@ -335,8 +335,8 @@ Maintainer: jcard
 
 Package: ethtool
 Filename: ethtool_5.7_arm.ipk
-Size: 117727
-SHA256sum: 2b5d5321ed0c0db7f1ac9f85f45a9bf936bfe763022e06ece0ae2bf6d615ff48
+Size: 117706
+SHA256sum: 3e4e05d421ff68000a147ed9c2e609fbfa17a7ad67922e5d65273ed3ac86dd6e
 Description: Utility for examining and tuning your ethernet-based network interface.
 Version: 5.7
 Depends: ipkg
@@ -350,8 +350,8 @@ Package: expat
 Depends: ipkg
 Version: 2.2.9
 Filename: expat_2.2.9_arm.ipk
-Size: 51664
-SHA256sum: 5f2076b050e9327e0410757d62c5974266c828f487f193c6c313546ebab75ae3
+Size: 51651
+SHA256sum: bb0771217e22b98da76f5facddbcf725bd773043578d882c16392aaa34065433
 Description: The Expat XML Parser.
 Architecture: arm
 Priority: optional
@@ -361,8 +361,8 @@ Maintainer: jcard
 
 Package: faad2
 Filename: faad2_2.9.2_arm.ipk
-Size: 309837
-SHA256sum: 7222def0064c206f68e02f3e01d2834e7dcf47cc8e223e2aa633c04f08b2696a
+Size: 309812
+SHA256sum: 07a5c0273859ada4985deff19138b15315319e749b98fb4844f80da1f136b50d
 Description: 	  FAAD2 is an open source MPEG-4 and MPEG-2 AAC decoder,
 	  http://www.audiocoding.com/faad2.html
 Version: 2.9.2
@@ -377,8 +377,8 @@ Package: ffmpeg
 Depends: fontconfig, lame, libtheora, libvorbis, wavpack, ipkg
 Version: 4.3.1
 Filename: ffmpeg_4.3.1_arm.ipk
-Size: 9018495
-SHA256sum: c554653b8c508aba2eb15ad0d7f3c8da0ce8ed4a8abb4a8ae720dd37a54cd854
+Size: 9019548
+SHA256sum: 9aa6d03661b315b9b95391373ea6d5fad58ddf35a176ebc138e0cbb8e0fd9995
 Description: A command line tool to convert multimedia files between formats.
  libavcodec is a library containing decoders and encoders for audio/video codecs.
  libavformat is a library containing demuxers and muxers for multimedia container formats.
@@ -392,8 +392,8 @@ Package: file
 Depends: ipkg
 Version: 5.38
 Filename: file_5.38_arm.ipk
-Size: 378235
-SHA256sum: d39630cdcee54086e4fe4a9de0361b965d031885599ca73c185a320ab06de2f4
+Size: 378156
+SHA256sum: 4fc3a2d453d5c90e05eee378063ecb7631f7e06db5a84c45be1069dca0d6f642
 Description: Program to identify a file's format by scanning binary data for known patterns.
 Architecture: arm
 Priority: optional
@@ -404,8 +404,8 @@ Maintainer: jcard
 Package: flac
 Version: 1.3.3
 Filename: flac_1.3.3_arm.ipk
-Size: 196370
-SHA256sum: 038480205cc6ddecc73568e09cfdc45e7edf301d455fc2c9fb4cc4d66aca0ab0
+Size: 196389
+SHA256sum: e1477dcd5ca263d1b7d30bf40917108ecf9f0bf0f306837257e755e32e13fb4f
 Description: An Open Source lossless audio codec.
 Depends: flac, ipkg
 Architecture: arm
@@ -416,8 +416,8 @@ Maintainer: jcard
 
 Package: flex
 Filename: flex_2.6.4_arm.ipk
-Size: 2022
-SHA256sum: 4ae94173926c8d94f07fcae5d9bce1a03960d29976d3ddca10a1daa3c0f97e85
+Size: 2020
+SHA256sum: e4e102131a6793bd0804390ef17fc27e662669608cef71d98f82b63573a5b075
 Description: A fast lexical analyser generator. A tool for generating programs that perform pattern-matching on text.
 Version: 2.6.4
 Depends: ipkg
@@ -429,8 +429,8 @@ Maintainer: jcard
 
 Package: fontconfig
 Filename: fontconfig_2.13.1_arm.ipk
-Size: 128477
-SHA256sum: b1566f4b065f8c5d8015b1d2ab0fb9dafddcb2c3ffb1e1c505c79bfac870ba97
+Size: 128403
+SHA256sum: 953f5a8099fa3c076da7591e6eb04d98dcb86602a0b83dd43fa2d77b657c6337
 Description: 	  Fontconfig is a library for configuring and customizing font access.
 	  http://www.fontconfig.org/
 Version: 2.13.1
@@ -443,8 +443,8 @@ Maintainer: jcard
 
 Package: forked-daapd
 Filename: forked-daapd_26.4_arm.ipk
-Size: 1029068
-SHA256sum: 377f5ac163f71228fe83fe75ccf1999447b4cf560d5329aaad10a9ceadad33f7
+Size: 1028842
+SHA256sum: 4bbf87f351fe46566438dee21de3cf56ae94862ef3c8be7bae5c238912efd058
 Description: A DAAP and RSP iTunes media server. It is a complete rewrite of mt-daapd (Firefly Media Server).
 Version: 26.4
 Depends: libevent, curl, ffmpeg, libantlr, alsa-lib, mxml, libconfuse, libgcrypt, libunistring, avahi, sqlite, ipkg
@@ -456,8 +456,8 @@ Maintainer: jcard
 
 Package: freetype
 Filename: freetype_2.10.2_arm.ipk
-Size: 257201
-SHA256sum: 79c4bc8d0bd3d56c6864d155078be861849b842140e499cdeb796393f3fe0bc5
+Size: 257369
+SHA256sum: b8f34f205d11c64fd4b50573b554829c2ca0ebea382556d0bbbc9f7faf26a916
 Description: 	  a free, high-quality and portable font engine.
 	  http://www.freetype.org/
 Version: 2.10.2
@@ -470,8 +470,8 @@ Maintainer: jcard
 
 Package: gdb
 Filename: gdb_8.2.1_arm.ipk
-Size: 2131453
-SHA256sum: e511aef7ff41a3e6219f8a87834ad4554250e2099405b4bffdffbc051f000424
+Size: 2131418
+SHA256sum: 0ea97fa432fbaf289b713f782912dc41306f06c0ff01cd616cf77fefac1b86f2
 Description: The GNU debugger
 Version: 8.2.1
 Depends: libstdc++, ncurses, ipkg
@@ -485,8 +485,8 @@ Package: gdbm
 Depends: ipkg
 Version: 1.18.1
 Filename: gdbm_1.18.1_arm.ipk
-Size: 61485
-SHA256sum: 062e983866ebb3af626a5e066cad165321237248a0029f586bade589696b3167
+Size: 61516
+SHA256sum: 60f576801d659aa347540c3d7880f0ba68936fcd9ebe6b95d174ffa51b23ccd8
 Description: A set of database routines that use extensible hashing.
 Architecture: arm
 Priority: optional
@@ -496,8 +496,8 @@ Maintainer: jcard
 
 Package: gerbera
 Filename: gerbera_1.4.0_arm.ipk
-Size: 1976519
-SHA256sum: 84425cb2558f62b889592c10a54af0d5d168d199fd74b461e95a32bf197b3c5b
+Size: 1976524
+SHA256sum: 00794e92ca1141874b7e3bb9e9efcd48eed40b1db411eb1542d11371ecedef08
 Description: A free media server.
 	  Stream your media to devices on your home network.
 Version: 1.4.0
@@ -510,8 +510,8 @@ Maintainer: awanga
 
 Package: gettext
 Filename: gettext_0.19.8.1_arm.ipk
-Size: 1064
-SHA256sum: 061221d3f07e8be693b5e0991d3771eeb020d13ec03a66080782f10c4ce7328a
+Size: 1066
+SHA256sum: 0afb94753caa265c92fd86e6a992cbbc3fac5130f7eceb612ed58fdc11c22fc0
 Description: A set of tools that provide a framework to produce multi-lingual messages.
 Version: 0.19.8.1
 Depends: ipkg
@@ -523,8 +523,8 @@ Maintainer: jcard
 
 Package: ghostscript-fonts
 Filename: ghostscript-fonts_8.11_arm.ipk
-Size: 3699713
-SHA256sum: d74e8e41c9a5634f5bab5fe7d1da7d26182f4831bcfa389f3ab2ea9a8c2d81ac
+Size: 3700409
+SHA256sum: 93a1a775da19a6c93e5dfeba7b9de863368c10edc10dcdf7173d19349571a014
 Description: 	  Fonts and font metrics customarily distributed with Ghostscript.
 	  Currently includes the 35 standard PostScript fonts and a
 	  grab-bag of others.
@@ -539,8 +539,8 @@ Maintainer: jcard
 
 Package: ghostscript
 Filename: ghostscript_9.52_arm.ipk
-Size: 10974771
-SHA256sum: ceb6d3c2af8ee12abf5ed6466496a926afd87d17f57a28764f16fe4b47bb233e
+Size: 10974980
+SHA256sum: 1d3b5075c5497e518a031baaa6ed5575d7ba6b4e5c9a3940e780d9b6020addc5
 Description: 	  Ghostscript is an interpreter for PostScript and Portable
 	  Document Format (PDF) files.
 	  http://ghostscript.com
@@ -554,8 +554,8 @@ Maintainer: jcard
 
 Package: gmp
 Filename: gmp_6.1.2_arm.ipk
-Size: 191238
-SHA256sum: 165a4b4ea4164c7db7f6ad09d30dbcf2429e24844114f3d3b49c0fee3ed5d96f
+Size: 191251
+SHA256sum: 4426bdc70257ce769271679ca5f25efdafc2a4acf17a90d0ec0b36404da7a14a
 Description: 	  GNU Multiple Precision Arithmetic Library.
 	  http://gmplib.org/
 Version: 6.1.2
@@ -568,8 +568,8 @@ Maintainer: jcard
 
 Package: gnupg
 Filename: gnupg_1.4.23_arm.ipk
-Size: 422400
-SHA256sum: 9fe9f7d2c9f4215c4400a0b78a1dc2e76c979a6a76e03fa891a9950c9ab2e83a
+Size: 422374
+SHA256sum: 3d05bd89f9770925d22ea1cfb604350db4b54c401075b2788096ada79e24da08
 Description: Allows to encrypt and sign your data and communication.
 Version: 1.4.23
 Depends: readline, libusb, ipkg
@@ -581,8 +581,8 @@ Maintainer: jcard
 
 Package: gptfdisk-sgdisk
 Filename: gptfdisk-sgdisk_1.0.4_arm.ipk
-Size: 63085
-SHA256sum: 6c58b48ce26e2089fe320119d9b1d5d59d44aa2afb9867b24977a7b5bce7963d
+Size: 63088
+SHA256sum: f4808bed84c9d5fcb1c18f8ee0913d58b38589f80df112af3c8bfc2b680ad2a3
 Description: The sgdisk component of gptfdisk. Needed for greater than 2TB disks
 Version: 1.0.4
 Depends: libstdc++, ncursesw, popt, ipkg
@@ -594,8 +594,8 @@ Maintainer: jcard
 
 Package: hplip
 Filename: hplip_3.17.10_arm.ipk
-Size: 10596708
-SHA256sum: 4981c0e89a8aabf05a01e9d7c1ea54576e85de96a5db174ba46ab7887d675118
+Size: 10597347
+SHA256sum: 6a2d8adb06d744a2e8b246b1150d3d2257112867817a85dfac3367f2869b28c7
 Description: HP Linux imaging and printing (for HP Printers)
 Version: 3.17.10
 Depends: cups, gs, sane-backends, netsnmp, libusb, ipkg
@@ -607,8 +607,8 @@ Maintainer: jcard
 
 Package: htop
 Filename: htop_2.2.0_arm.ipk
-Size: 65657
-SHA256sum: 39a93fe986ee5cdcf9c1b96eb30f58349d43a2d2131cc1eaf1c6cc4c2a610ba5
+Size: 65601
+SHA256sum: 5d884a9d39f230baaeb775dc9597b2f819c0c28dc36ddcb5ee7643ff90e4f398
 Description: An interactive process viewer for Linux
 Version: 2.2.0
 Depends: ncurses, ipkg
@@ -620,8 +620,8 @@ Maintainer: jcard
 
 Package: icu
 Filename: icu_67-1_arm.ipk
-Size: 12755980
-SHA256sum: 20b691efd3c9566d1630c6f6b0f07fa52e5c71ed35f9f0f35115504004be6008
+Size: 12755848
+SHA256sum: a93082e2b99788ec1b00077d9b5d621111eef96de82bd115d75c5b2b6f5ba629
 Description: International Components for Unicode.
 Version: 67-1
 Depends: ipkg
@@ -633,8 +633,8 @@ Maintainer: jcard
 
 Package: inadyn-mt
 Filename: inadyn-mt_02.28.10-3_arm.ipk
-Size: 61415
-SHA256sum: f24a29f3945b29abc995682d72e1256dfe4445663eb61684d8ce8b92058e8cff
+Size: 61431
+SHA256sum: d2448afb491afd7a069eba85e94aca2c8b216b1e3dc0bb0b92846e1f38223248
 Description: A Dynamic DNS client with substantive bug fixes over inadyn
 Version: 02.28.10-3
 Depends: ipkg
@@ -646,8 +646,8 @@ Maintainer: jcard
 
 Package: initscripts
 Filename: initscripts__arm.ipk
-Size: 5958
-SHA256sum: 9fd67cebcb4ee8d253b100bfbc370e9f07f025eef61abfcb549ec8cdd9fab87f
+Size: 5965
+SHA256sum: a1315eadf193a1b9d23de6657f4242eca8ea2c02b9df52b9d6b933bdcb3796ab
 Description: 	  The basics startup scripts for both SysV and Busybox
 Version: 
 Depends: ipkg
@@ -659,8 +659,8 @@ Maintainer: jcard
 
 Package: iperf
 Filename: iperf_2.0.13_arm.ipk
-Size: 47094
-SHA256sum: a1a3779af16c03e6aa408e782d6e51e0fa0fd0770639daf8b71bae7e542dd8e6
+Size: 47070
+SHA256sum: 4f5cb511eb48972a5a81f4fc33a3c40bbe5c3fbcd09721c3cf7ec492d1dc6273
 Description: Internet Protocol bandwidth measuring tool for measuring TCP/UDP performance.
 Version: 2.0.13
 Depends: ipkg
@@ -684,8 +684,8 @@ Maintainer: jcard
 
 Package: iptables
 Filename: iptables_1.8.4_arm.ipk
-Size: 243646
-SHA256sum: 7a32f0723c4b3acc787c834d0592e8631feb776dd12b15bc219a53991b78c662
+Size: 243724
+SHA256sum: f3e111b4308750f7508ce472e74a6906e19b7f72bb52a1bd88ce99273c3dad11
 Description: Linux kernel firewall, NAT, and packet mangling tools.
 Version: 1.8.4
 Depends: kernel-modules, ipkg
@@ -697,8 +697,8 @@ Maintainer: jcard
 
 Package: iptraf-ng
 Filename: iptraf-ng_1.1.4_arm.ipk
-Size: 67167
-SHA256sum: 1e84c4ae00d13515d7e41ed023292b14ef9adc1d9007c22dd7bf0632d2114f31
+Size: 67095
+SHA256sum: a70cf4182483087192504db5208789a06d91ce4de1907ae5529ad73ceb8376b7
 Description: 	  IPTraf-ng is a ncurses-based network monitoring utility. It gathers
 	  data like TCP connection packet and byte counts, interface statistics
 	  and activity indicators.
@@ -715,7 +715,7 @@ Maintainer: jcard
 Package: json-c
 Filename: json-c_0.15_arm.ipk
 Size: 24365
-SHA256sum: 8a53be41752c248596b2ff1ff54d71830c422ae2a2c4b9e7fd835ece8028d840
+SHA256sum: ab11f99485c522989b500447d0a9fa4542511f6478c73aca844493762a7eae53
 Description: A JSON implementation in C
 Version: 0.15
 Depends: ipkg
@@ -727,8 +727,8 @@ Maintainer: awanga
 
 Package: kernel-modules-armv5
 Filename: kernel-modules-armv5_5.4.69_arm.ipk
-Size: 2773685
-SHA256sum: 841e1ecc3b5a37fefbda4662b19fbb4309d52519741fe431a6f2edb8ac771ee5
+Size: 2773754
+SHA256sum: a93ef69a3cf70d9ee29d7e1126c2ebc14515b9919c0cdb5a84620faaf41d4642
 Description: Aditional linux kernel modules for the DNS-320/320L/321/323/325
 Version: 5.4.69
 Depends: ipkg
@@ -740,8 +740,8 @@ Maintainer: jcard
 
 Package: kernel-modules-armv7
 Filename: kernel-modules-armv7_5.4.69_arm.ipk
-Size: 1250344
-SHA256sum: 395dd2d075af74a24f1bd3ad4ac2367d1d855342ccc185e1ff43518ffb80ccc2
+Size: 1250341
+SHA256sum: a4e87681f0ab2b02402fab9e816d029eb64f7ab3b61e2c9afcec5247e0ae8160
 Description: Aditional linux kernel modules for the DNS-327L
 Version: 5.4.69
 Depends: ipkg
@@ -753,8 +753,8 @@ Maintainer: jcard
 
 Package: kernel-modules
 Filename: kernel-modules_5.4.69_arm.ipk
-Size: 894
-SHA256sum: bd0245a759ff252dfa3c00786ab7c1347c0cbc2f407a72a583871694b66484f4
+Size: 889
+SHA256sum: cc5ee1ee9d79ec7143c781d3ef312d5456b96683b83e4180eb1cd636e44d99e1
 Description: Aditional linux kernel modules
 Version: 5.4.69
 Depends: ipkg
@@ -766,8 +766,8 @@ Maintainer: jcard
 
 Package: kexec
 Filename: kexec_2.0.20_arm.ipk
-Size: 59788
-SHA256sum: e732597b8760ee96e0b9d3f82643653dd0367df042ff89a0518ace1dab2d8e1c
+Size: 59791
+SHA256sum: 795de0407c6c9d8700b796d7d162926b37891f164e047a915faf922bebf4f2a9
 Description: A user space utility for loading another kernel
 Version: 2.0.20
 Depends: ipkg
@@ -779,8 +779,8 @@ Maintainer: jcard
 
 Package: lame
 Filename: lame_3.100_arm.ipk
-Size: 162557
-SHA256sum: 0882490d736112cd25e5b613304f70cef74a2fe474e9e0fbef5c0ea71896b538
+Size: 162474
+SHA256sum: 1d7fda22d417af555df853706c363f399d25d88c8752e4f20fdba316c25b30bb
 Description: LAME Ain't an Mp3 Encoder. LAME is an educational tool to be used for learning about MP3 encoding.
 Depends: ipkg
 Version: 3.100
@@ -792,8 +792,8 @@ Maintainer: jcard
 
 Package: lcms2
 Filename: lcms2_2.11_arm.ipk
-Size: 162567
-SHA256sum: f8c3337d2042c4501ba101d24c74ef169845788c48235cbe07368daacbafbf8b
+Size: 162519
+SHA256sum: b33b40d7b47d13537579d3dad155f48c3347478fa9669b1d9abe84f29aed73c9
 Description: 	  Little Color Management Software (CMS) intends to be an OPEN
 	  SOURCE small-footprint color management engine, with special
 	  focus on accuracy and performance.
@@ -810,8 +810,8 @@ Maintainer: jcard
 
 Package: lftp
 Filename: lftp_4.9.1_arm.ipk
-Size: 547577
-SHA256sum: cde04c74f7613e0cca2a972e31dfec7e37b4aa9d5962b08b74c537b334f199d5
+Size: 547692
+SHA256sum: 541f6254402d3aee39d46635ba8e160794c908655084065ef2f6d8a35a93a207
 Description: a sophisticated ftp client program supporting FTP, HTTP, FISH, SFTP, FILE and BitTorrent.
 Version: 4.9.1
 Depends: openssl, gettext, libiconv, expat, readline, ipkg
@@ -824,7 +824,7 @@ Maintainer: jcard
 Package: libaio
 Filename: libaio_0.3.111_arm.ipk
 Size: 2700
-SHA256sum: d3db92674a9509659090e35590b7a6ee92897385d5d2882621add74c93952ecc
+SHA256sum: 039f954ddd79b8cfdb595e92112f08cd80ee915c012df7d953ad7bfe49f38b84
 Description: A Linux-native asynchronous I/O access library 
 Version: 0.3.111
 Depends: ipkg
@@ -836,8 +836,8 @@ Maintainer: awanga
 
 Package: libantlr
 Filename: libantlr_3.4_arm.ipk
-Size: 32693
-SHA256sum: 4d3a30b33dac549c1372a76a933e9e324bf0605ba9512d3babda2b02877dacac
+Size: 32699
+SHA256sum: d4feb8740d0c05de8d15b1fdfe52eb54ccc02802546fb2a8db453e8e2494a17c
 Description: A language tool that provides a framework for constructing recognizers,
  interpreters, compilers, and translators from grammatical descriptions  
 Version: 3.4
@@ -850,8 +850,8 @@ Maintainer: jcard
 
 Package: libconfuse
 Filename: libconfuse_3.3_arm.ipk
-Size: 18009
-SHA256sum: 4b1b525069526fa0b8c70117ba424c4644052fdc05126afd639a97893a0f7647
+Size: 17977
+SHA256sum: fbdfc7f02208b4972a21b6323bf38bb6258fd01dc38c0cdaf7c78a9f8698adf1
 Description: A configuration file parser library written in C.
 Version: 3.3
 Depends: ipkg
@@ -865,8 +865,8 @@ Package: libdaemon
 Depends: ipkg
 Version: 0.14
 Filename: libdaemon_0.14_arm.ipk
-Size: 8284
-SHA256sum: fedccc9828b7c08b765c8ba0f8972f4435c295c0281987af80ba08681d72173a
+Size: 8290
+SHA256sum: 7c149b463f025ee1107e6d57e119ae12dac29c8fc5c5b802e448a197d7adcce2
 Description: A lightweight C library that eases the writing of UNIX daemons.
 Architecture: arm
 Priority: optional
@@ -876,8 +876,8 @@ Maintainer: jcard
 
 Package: libevent
 Filename: libevent_2.1.12_arm.ipk
-Size: 257316
-SHA256sum: abfed93aa1a7de74fbf5aedd942293968ea8378c90f53e42d3ef8d66704ffb7b
+Size: 257294
+SHA256sum: eaee80262c0ed6bf2ba109972eec10fe45f08d0eb9f68999de7ebb76dcbf7ffc
 Description: Userspace library for handling asynchronous notifications
 Depends: ipkg
 Version: 2.1.12
@@ -891,8 +891,8 @@ Package: libexif
 Depends: ipkg
 Version: 0.6.22
 Filename: libexif_0.6.22_arm.ipk
-Size: 63623
-SHA256sum: 648ea924c0732f530aad010ceceb02c3a586392709206db6c0e5a352b5844300
+Size: 63615
+SHA256sum: cc54e76ead746b1548540bef388ccf83174ab4a17c8075d1ee2be6e28b06f4d7
 Description: A library for parsing, editing, and saving EXIF data.
 Architecture: arm
 Priority: optional
@@ -904,8 +904,8 @@ Package: libffi
 Depends: ipkg
 Version: 3.3
 Filename: libffi_3.3_arm.ipk
-Size: 13051
-SHA256sum: 2a84093ff41aed96db9d63c03dd9aec114734554606ead4d68707e956e16fb89
+Size: 13053
+SHA256sum: 6d3832c96a517425e6e00b87b69b47923e68b3308499050a83b1af164deaa22e
 Description: A Portable Foreign Function Interface Library
 Architecture: arm
 Priority: optional
@@ -917,8 +917,8 @@ Package: libfuse
 Depends: kernel-modules, ipkg
 Version: 2.9.9
 Filename: libfuse_2.9.9_arm.ipk
-Size: 65563
-SHA256sum: 06d512b4d9deffa4a0591d153c8e65190ad4e312e2814956aff4295829c29555
+Size: 65480
+SHA256sum: f46479b0738cfa13b38eb92cd55933c97eb7b17b7db1f6144bb2df27005c8e97
 Description: provides FUSE, Filesystem in UserSpacE
 Architecture: arm
 Priority: optional
@@ -928,8 +928,8 @@ Maintainer: jcard
 
 Package: libgcrypt
 Filename: libgcrypt_1.8.6_arm.ipk
-Size: 348790
-SHA256sum: f4d1a16e9e1bbd969bbdbba50e7408b5d61823fd562fd80041daba6fa161c333
+Size: 348769
+SHA256sum: 9fe02e51cc410a68b9f28c3f8235d746007601164257dd05e2cbaa8a331ebfb9
 Description: GNU's basic cryptographic library.
 Version: 1.8.6
 Depends: libgpg-error, ipkg
@@ -941,8 +941,8 @@ Maintainer: jcard
 
 Package: libglib2
 Filename: libglib2_2.64.4_arm.ipk
-Size: 1158819
-SHA256sum: f37e65b8aed24c99de5fa92386afeeccba65d6468ef04da7bc83040f47fa4e10
+Size: 1158817
+SHA256sum: 6093194780d33a9d24182976bcf3fd9c595713e9835c2f341c09644ebf777071
 Description: Low-level core library that forms the basis of GTK+ and GNOME.
 Version: 2.64.4
 Depends: gettext, ipkg
@@ -954,8 +954,8 @@ Maintainer: jcard
 
 Package: libgpg-error
 Filename: libgpg-error_1.37_arm.ipk
-Size: 63426
-SHA256sum: 9117cad38c8bae0aca596132138a550104823a45dd44e8e6b5f1d55cc801ad7a
+Size: 63448
+SHA256sum: 47f77306d4dab7196a0904ccf15716ea85a4fd0e939acaac09f8e7ca43e24857
 Description: A small library with error codes and descriptions shared by most GnuPG related software.
 Version: 1.37
 Depends: ipkg
@@ -969,8 +969,8 @@ Package: libgpiod
 Depends: ipkg
 Version: 1.4.1
 Filename: libgpiod_1.4.1_arm.ipk
-Size: 38442
-SHA256sum: 3e42edf4c988c702f1d03f4fc869cf978157823831062d53a7f2714e7fcb6d25
+Size: 38439
+SHA256sum: 6fb0d164de9f955521fb8148e364c2abb3ec4c642a9042248d4a07238dad8496
 Description: A C library that abstracts the GPIO character device operations on linux.
 Architecture: arm
 Priority: optional
@@ -978,12 +978,25 @@ Section: libraries
 Source: https://github.com/brgl/libgpiod
 Maintainer: awanga
 
+Package: libiconv
+Filename: libiconv_1.15_arm.ipk
+Size: 673428
+SHA256sum: 48d0ba486bd5b6d3e3e80a1511f66b3588ed8fe481deae8e2a8f3bb2fb193c91
+Description: A unicode conversion library
+Version: 1.15
+Depends: ipkg
+Architecture: arm
+Priority: optional
+Section: admin
+Source: http://ftp.gnu.org/pub/gnu/libiconv
+Maintainer: jcard
+
 Package: libid3tag
 Depends: ipkg
 Version: 0.15.1b-4
 Filename: libid3tag_0.15.1b-4_arm.ipk
-Size: 25667
-SHA256sum: c796447c070b0829f9ad5b6126dcadefb9f3460d2d0df2eb27e2140734a2e279
+Size: 25595
+SHA256sum: 9fff1bb890268f597b0840a3edb85f49641d88ac70de8d8f88ca68b05aedf817
 Description: ID3 tag reading library from the MAD project.
 Architecture: arm
 Priority: optional
@@ -993,8 +1006,8 @@ Maintainer: jcard
 
 Package: libite
 Filename: libite_2.2.0_arm.ipk
-Size: 10772
-SHA256sum: e64aa73a83b33720da43ba6483e67a9c6a4cb9dbb3bb74a091d0b9309e2679ee
+Size: 10769
+SHA256sum: 6f0bb7ad94b8c74d6cc35865d66b631011cca54db89c9434ccf29e364b15c6e6
 Description: 	  Libite is a lightweight library of frog DNA. It can be used
 	  to fill the gaps in any dinosaur project. It holds useful
 	  functions and macros developed by both Finit and the OpenBSD
@@ -1019,8 +1032,8 @@ Package: libjpeg
 Depends: ipkg
 Version: 9d
 Filename: libjpeg_9d_arm.ipk
-Size: 92987
-SHA256sum: 733140f8146244cfae75a6ea0001b5558060d8eb6ab1c6136b9b0bd2502e4275
+Size: 92981
+SHA256sum: d8dee7c598110de7d6d1a87dc2ff04b656cb89ca8aec2cd892c9c2ef71007d91
 Description: The ubiquitous C library for manipulating JPEG images.
 Architecture: arm
 Priority: optional
@@ -1033,7 +1046,7 @@ Depends: ipkg
 Version: 0.15.1b
 Filename: libmad_0.15.1b_arm.ipk
 Size: 64741
-SHA256sum: df4c19072f0eaaaebde482b1961e083a298f919f1e1b984c6417c998ce015902
+SHA256sum: c650a43d8f84dd2027c4f884de58f61a465c232bd6ff6c9f40e633534d1a14a5
 Description: High-quality MPEG audio decoder. All computations are performed with fixed-point
  integer arithmetic, making it ideal for systems without a floating-point unit.
 Architecture: arm
@@ -1044,8 +1057,8 @@ Maintainer: jcard
 
 Package: libmatroska
 Filename: libmatroska_1.6.0_arm.ipk
-Size: 147171
-SHA256sum: 6adaca33d4f9fc827ac2930af4808112e3cc96fa13daaf30976d4b5e2c7dee9c
+Size: 147079
+SHA256sum: 6979609e69d2f24f98ead71dac71972a979d8c82170d5d276eb3ac026470c1a8
 Description: Extensible open standard audio/video container format access library.
 Version: 1.6.0
 Depends: ipkg
@@ -1057,8 +1070,8 @@ Maintainer: awanga
 
 Package: libmcrypt
 Filename: libmcrypt_2.5.8_arm.ipk
-Size: 61928
-SHA256sum: 983ea916f0ce06de815897e3b1d526a3a971ed77c15a69281752ea2a97e25ee2
+Size: 61938
+SHA256sum: 924d6d20cfdda1e816159003ab15b8b7994c80320d0d3f52f6d09bddaf5ac537
 Description: Replacements for the old Unix crypt, under the GPL and support an ever-wider range of algorithms and modes.
 Version: 2.5.8
 Depends: ipkg
@@ -1070,8 +1083,8 @@ Maintainer: jcard
 
 Package: libnl
 Filename: libnl_3.5.0_arm.ipk
-Size: 354637
-SHA256sum: d01cf7810d555248d85835fd2aed9724975e1e1a13ec8b1d602746703c08389d
+Size: 354543
+SHA256sum: f057bae44d1f09ff5f2acc07a33b86a6501632bbe9ec3acd98dfec5dce5a1734
 Description: A library for applications dealing with netlink socket.
 Version: 3.5.0
 Depends: ipkg
@@ -1085,8 +1098,8 @@ Package: libogg
 Depends: ipkg
 Version: 1.3.4
 Filename: libogg_1.3.4_arm.ipk
-Size: 16940
-SHA256sum: 827c69c66d8563401883390bacd78ab0f7fd5d4903a68da08572700a9753d0d5
+Size: 16946
+SHA256sum: 7d134b014747ec9922bdac5077ad6428c396bdf39a4e56fe89215dea9998b6dd
 Description: A multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs.
 Architecture: arm
 Priority: optional
@@ -1096,8 +1109,8 @@ Maintainer: jcard
 
 Package: libpcap
 Filename: libpcap_1.9.1_arm.ipk
-Size: 96715
-SHA256sum: a0cfde292f6374db6f0daea39405ee62ac2ac1bc8968c4f924e07e4ed45b6774
+Size: 96728
+SHA256sum: f74c9bb61ef5b58e91eb7f5d03b33ae17baf2c1152ee380b9b88d5be7bfb3591
 Description: A system-independent library for user-level network packet capture.
 Version: 1.9.1
 Depends: ipkg
@@ -1109,8 +1122,8 @@ Maintainer: jcard
 
 Package: libplist
 Filename: libplist_2.1.0_arm.ipk
-Size: 43740
-SHA256sum: ca09fb729472dfbd2614a41964dfade7f29109e625bf143492bd25d68d9cdc47
+Size: 43759
+SHA256sum: 9b4b7116d162b8a9a2c28c4a7cfa473c2094dda624f1019f9f94c23538293795
 Description: A client for manipulating Apple Property List (.plist) files
 Version: 2.1.0
 Depends: libstdc++, ipkg
@@ -1124,8 +1137,8 @@ Package: libpng
 Depends: ipkg
 Version: 1.6.37
 Filename: libpng_1.6.37_arm.ipk
-Size: 81398
-SHA256sum: 5295f79b2620134d4c8bcdaec2eda06b9336a611bb2f04822e2583dd185c4f7d
+Size: 81396
+SHA256sum: 2ef02c4f39acd69dc2e1538f20a4b7e10f08652a1bd15425cb28b3a316c5e386
 Description: A library for handling PNG (Portable Network Graphics) images.
 Architecture: arm
 Priority: optional
@@ -1135,8 +1148,8 @@ Maintainer: jcard
 
 Package: librsync
 Filename: librsync_2.3.1_arm.ipk
-Size: 25593
-SHA256sum: 91be76ff665df08cbfd0991f256654eecfa49722b0e8eb79af9944dbb7c73755
+Size: 25581
+SHA256sum: b6672478245821f90d3c7ff8454413db97e2a609081245fabae95c24ce24549b
 Description: implements the rolling-checksum algorithm of remote file synchronization.
 Version: 2.3.1
 Depends: ipkg
@@ -1148,8 +1161,8 @@ Maintainer: jcard
 
 Package: libsndfile
 Filename: libsndfile_1.0.28_arm.ipk
-Size: 159459
-SHA256sum: 5c33783fa65ee6d0d8785d849aaadc173c1875e38a55158f50fc11787aecda44
+Size: 159454
+SHA256sum: b8e49639e1545e2e25ba99c090d13b4d8b71385f72b2436354837b7927645004
 Description: 	  Libsndfile is a C library for reading and writing files containing
 	  sampled sound (such as MS Windows WAV and the Apple/SGI AIFF format)
 	  through one standard library interface.
@@ -1164,8 +1177,8 @@ Maintainer: jcard
 
 Package: libstdc++
 Filename: libstdc++_6.0.28_arm.ipk
-Size: 404024
-SHA256sum: 3ae4cd3a94dc5acd4f6784f75669038cdb973322f6cd557c2e3982ce745909a9
+Size: 404034
+SHA256sum: 0b853e27787eafc85f09221de98cc35a98435f76026178b0d62876afab4a5c5d
 Description: GNU C++ Library 
 Version: 6.0.28
 Depends: ipkg
@@ -1179,8 +1192,8 @@ Package: libtheora
 Version: 1.1.1
 Depends: libogg, ipkg
 Filename: libtheora_1.1.1_arm.ipk
-Size: 208778
-SHA256sum: cd1347110fe8edaea6ca8b337a8be65c117df1f70b4a7de968e8e5daf057103a
+Size: 208774
+SHA256sum: e85ff4f547d47668b7a921d1842174d5592bc586e7c7d3c0b176a25794f280f1
 Description: A library for the free and open video compression format "Theora" from the Xiph.org Foundation.
 Architecture: arm
 Priority: optional
@@ -1190,8 +1203,8 @@ Maintainer: jcard
 
 Package: libtirpc
 Filename: libtirpc_1.2.6_arm.ipk
-Size: 48137
-SHA256sum: eea4925eea53529618a628d9aca91b24a3fdac440ef95b3e808a45d8da592bb8
+Size: 48138
+SHA256sum: 128466ce1c345afa40e7cca83b8878f2eeaa52331db78d2c49312b61cef1e474
 Description: A port of Sun's Transport-Independent RPC library to Linux.
 Version: 1.2.6
 Depends: ipkg
@@ -1203,8 +1216,8 @@ Maintainer: jcard
 
 Package: libunistring
 Filename: libunistring_0.9.10_arm.ipk
-Size: 601632
-SHA256sum: e75606a460cd0156d3057ee19b86ff5ccc61807c005d67efa37612411d34045d
+Size: 601458
+SHA256sum: b1e5d43f837e51682e528ec189c50bfbd3d09f58b2117bd4b7ee1a9cf14bff47
 Description: Library that implements Unicode strings, together with functions
  for Unicode charactets and functions for string processing.
 Version: 0.9.10
@@ -1217,8 +1230,8 @@ Maintainer: jcard
 
 Package: libupnp
 Filename: libupnp_1.8.7_arm.ipk
-Size: 87823
-SHA256sum: c8082a531f136b0a609f5489a50707a4ba14562d0ebdad8077f98061b1828e7e
+Size: 87794
+SHA256sum: 77b784454d7839e462e2604d20bce8ffbf3dfe890c66a4b0c2d363346a9740d7
 Description: The portable SDK for UPnP(tm) Devices (libupnp) provides
  developers with an API and open source code for building control points,
  devices, and bridges that are compliant with Version 1.0 of the
@@ -1233,8 +1246,8 @@ Maintainer: jcard
 
 Package: libusb-compat
 Filename: libusb-compat_0.1.7_arm.ipk
-Size: 6596
-SHA256sum: 31e83ed8a7c3e57a8d3732b5d3af25a96bd852bf91676c39cd41b886cea5662b
+Size: 6604
+SHA256sum: dc53edd430c2aa58928469fab1a1e9531fc7f0deebec10ee5f3a19ee2053190c
 Description: 	  libusb-0.1 compatibility layer for libusb-1.0.
 	  http://libusb.info/
 Version: 0.1.7
@@ -1247,8 +1260,8 @@ Maintainer: jcard
 
 Package: libusb
 Filename: libusb_1.0.23_arm.ipk
-Size: 37258
-SHA256sum: c7f6621010146d86c7f1e3cb48e44202e646881d9d7999fd5d97056585958e8e
+Size: 37260
+SHA256sum: 29660b903a085ed4ed1ca720a9954354c5f58f942e75f800698b9e5e2d53cb40
 Description: Userspace library for accessing USB devices
 Depends: ipkg
 Version: 1.0.23
@@ -1260,8 +1273,8 @@ Maintainer: jcard
 
 Package: libvorbis
 Filename: libvorbis_1.3.7_arm.ipk
-Size: 189590
-SHA256sum: 0c537842d9486d52fb3dd5cd0bea04680dac320c5c5cf45a98aa32c5ea657dfa
+Size: 189561
+SHA256sum: 1c1e10c83ee701036bd122c80aeaa0014a91f16e1034183db73e7c0904ad762a
 Description: Library for the Vorbis open source audio decoder Ogg Vorbis is a fully
  open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio
  format for mid to high quality audio and music at fixed and variable bitrates.
@@ -1277,8 +1290,8 @@ Package: libxml2
 Depends: ipkg
 Version: 2.9.10
 Filename: libxml2_2.9.10_arm.ipk
-Size: 467099
-SHA256sum: 005baad8e61b86140a59e88605acae810f5c819c586e59a68a6a80721e64ab07
+Size: 467049
+SHA256sum: d75e842d77f93a23b4484ac3a9a47a3778c6c4e6c04ce84e653eabd6c8ec9e55
 Description: XML C parser and toolkit of Gnome
 Architecture: arm
 Priority: optional
@@ -1288,8 +1301,8 @@ Maintainer: jcard
 
 Package: lighttpd
 Filename: lighttpd_1.4.55_arm.ipk
-Size: 298264
-SHA256sum: c0b984978e2398227b82f2b70594f380d129d1a39f50e290cd94095cd7e65af8
+Size: 298163
+SHA256sum: 4d43ed2d695b84bf24c75e52bc7b739baf0a1fa9b8da849c70da87cee0d00b4d
 Description: A secure, fast, compliant and very flexible web-server
 Version: 1.4.55
 Depends: ipkg, sqlite, libxml2, pcre
@@ -1301,8 +1314,8 @@ Maintainer: jcard
 
 Package: lz4
 Filename: lz4_1.9.2_arm.ipk
-Size: 111349
-SHA256sum: 937d03951db9473ca9454ce0e6c1ea30fc9d774ff4caa8cb39b145e0e5bbe683
+Size: 111346
+SHA256sum: 857481de28d91d4208ec1f740f0c92f3ed2aaeab2929cc22474eab57b603a739
 Description: 	  LZ4 is a very fast lossless compression algorithm, providing
 	  compression speed at 400 MB/s per core, scalable with multi-cores
 	  CPU. It also features an extremely fast decoder, with speed
@@ -1319,8 +1332,8 @@ Maintainer: jcard
 
 Package: lzo
 Filename: lzo_2.10_arm.ipk
-Size: 60561
-SHA256sum: 103db6f71019b90367ba897433b10904267ce8783cef7c7be9937268da025db6
+Size: 60545
+SHA256sum: 44cbe93d4d065ad48075831713e1b6796b1f991aaee6ad942f31ef85a42cb36f
 Description: Portable lossless data compression library written in ANSI C.
 Version: 2.10
 Depends: ipkg
@@ -1332,8 +1345,8 @@ Maintainer: jcard
 
 Package: make
 Filename: make_4.2.1_arm.ipk
-Size: 84678
-SHA256sum: 610cbfe850d54345ee672e6cbd41f40eed936e1b5a512d27c2df64a82447a413
+Size: 84683
+SHA256sum: e3bd32bfbd3464c9aff194aeffb91c3e0b7cae35a4df98f7ef946aded23e8ad7
 Description: A tool which controls the generation of executables and other non-source files of a program from the program's source files.
 Depends: ipkg
 Version: 4.2.1
@@ -1345,8 +1358,8 @@ Maintainer: jcard
 
 Package: mariadb
 Filename: mariadb_10.3.23_arm.ipk
-Size: 9643339
-SHA256sum: 8ba8a174d0c182010f7cc01acd448246623f9d5acdf889c69a5be2e2062e9740
+Size: 9643548
+SHA256sum: 2941a4f52e2255feb6c240e8ad7e1f0aaa60fea1be1b8aedbd70878ad69c8e5a
 Description: The MariaDB Database Management System
 Version: 10.3.23
 Depends: ncurses, openssl, libaio, libxml2, zlib, ipkg
@@ -1358,8 +1371,8 @@ Maintainer: jcard
 
 Package: mbedtls
 Filename: mbedtls_2.16.8_arm.ipk
-Size: 257707
-SHA256sum: 0609e85dc66548f0cb64664aa3dd4c26abf5e50cb262434c9ffae993261f1aee
+Size: 257757
+SHA256sum: c71ac339ba17df249866030afd22fb9e1f7fab0d8128bac3cb0dd6eb05cc4bdc
 Description: 	  mbed TLS (formerly known as PolarSSL) makes it trivially easy
 	  for developers to include cryptographic and SSL/TLS
 	  capabilities in their (embedded) products, facilitating this
@@ -1375,8 +1388,8 @@ Maintainer: jcard
 
 Package: mc
 Filename: mc_4.8.24_arm.ipk
-Size: 589847
-SHA256sum: 404271127073463ce9d63b7bd27383d2f251c0790eb67b230277f78ac938006b
+Size: 589183
+SHA256sum: 25ebf4f4697b2d23055d533704ed9a139dc4086047051a119e26865a281cd405
 Description: Midnight Commander is a text-mode file manager.
 Version: 4.8.24
 Depends: slang, libglib2, ipkg
@@ -1388,8 +1401,8 @@ Maintainer: jcard
 
 Package: mdadm
 Filename: mdadm_4.1_arm.ipk
-Size: 367375
-SHA256sum: 2aa1d6a90d54210425d4f8206426b07cb3d631b9167f100f1bb34dffecbda032
+Size: 367383
+SHA256sum: f1bae44f36544ce8757e756cb9bdf9d1c320fe0bb9f448bc8e1794dc9401e56a
 Description: Utility for managing RAID hardware.
 Version: 4.1
 Depends: ipkg
@@ -1401,8 +1414,8 @@ Maintainer: jcard
 
 Package: mediastreamer
 Filename: mediastreamer_4.3.1_arm.ipk
-Size: 216213
-SHA256sum: 2f669abf0ea36ee6540062c9ead7d3775a9c4de38195a3d5ea95bff36250bc64
+Size: 216197
+SHA256sum: 77144e9df674e0467451873ca09d135a882d586bec8c38f4ac49b5dec4df5917
 Description: 	  Mediastreamer is a powerful and lightweighted streaming
 	  engine specialized for voice/video telephony applications.
 	  It is the library that is responsible for all the receiving
@@ -1419,8 +1432,8 @@ Maintainer: jcard
 
 Package: micropython-lib
 Filename: micropython-lib_1.9.3_arm.ipk
-Size: 220754
-SHA256sum: fb2b5bfe9d1a2d123d7dd7c983ee093806d79013d11b83d1dfaa01177a8d0d83
+Size: 220918
+SHA256sum: 452f302369d873917dc16b97fc394164816479fae9f65384c450dffd7a0ab189
 Description: 	  Core Python libraries ported to MicroPython.
 	  http://micropython.org
 Version: 1.9.3
@@ -1433,8 +1446,8 @@ Maintainer: jcard
 
 Package: micropython
 Filename: micropython_1.12_arm.ipk
-Size: 142986
-SHA256sum: 18ffc02bdb234b9a7765f25d31fa4eb92cc5b9ca8f55baa4c72357a0e3f03f08
+Size: 143073
+SHA256sum: dd37a7f668bc1c57ec74efd686187c871f1205a73aadb0ae9226985ed605f99e
 Description: 	  Micro Python is a lean and fast implementation of the Python 3
 	  programming language that is optimised to run on a microcontroller.
 	  http://micropython.org
@@ -1448,8 +1461,8 @@ Maintainer: jcard
 
 Package: minidlna
 Filename: minidlna_1.2.1_arm.ipk
-Size: 120991
-SHA256sum: 6532a3b27bf00eff88f4420cf5c139cf61ddcccba454a5ce712271f214fbcf0b
+Size: 121003
+SHA256sum: 2b9c4c7589e698c40d8fe4608ae3b6a728c240b16a8b0ce50fb21385e44b788c
 Description: Media server compliant with DLNA/UPnP-AV clients.
 Version: 1.2.1
 Depends: avahi, libexif, libjpeg, libid3tag, flac, libvorbis, sqlite, ffmpeg, ipkg
@@ -1461,8 +1474,8 @@ Maintainer: jcard
 
 Package: mpd
 Filename: mpd_0.21.24_arm.ipk
-Size: 262881
-SHA256sum: d5bbde1546dc1b558ccaff91df0cc7268cb0a410413d42d40fa67d4b965e0cb4
+Size: 262862
+SHA256sum: 801ef5c1c82a9a52361afdf44d713cc6111fd32d7cd75528696721a3a161f7f3
 Description: A flexible, powerful, server-side application for playing music
 Version: 0.21.24
 Depends: lame, twolame, mpg123-libs, alsa-lib, libid3tag, curl, ffmpeg, libmad, libogg, libvorbis, flac, faad2, wavpack, sqlite, ipkg, avahi
@@ -1474,8 +1487,8 @@ Maintainer: jcard
 
 Package: mpg123-libs
 Filename: mpg123-libs_1.25.2_arm.ipk
-Size: 211455
-SHA256sum: 75f183b10a1e42eaa35dace03921c2ab773d74ff5d2301937750a454b38e7e97
+Size: 211406
+SHA256sum: 912a5e1094f71fa8168f99ee56a9deda2494af177da7d900e13d5470d39bbe04
 Description: Fast, free and portable MPEG audio player for Unix.  It supports MPEG 1.0/2.0 layers 1, 2 and 3.
 Version: 1.25.2
 Depends: alsa-lib, ipkg
@@ -1487,8 +1500,8 @@ Maintainer: jcard
 
 Package: mpg123-progs
 Filename: mpg123-progs_1.25.2_arm.ipk
-Size: 74664
-SHA256sum: 889cfd1b72f5f5f187907f9f25b84e446639730424ed32a61d1f2cbe23d8e1cc
+Size: 74738
+SHA256sum: 9a83ac6262849602974eeca3821b764739b546c6a901c34679c6b16e0a5accd3
 Description: Fast, free and portable MPEG audio player for Unix.  It supports MPEG 1.0/2.0 layers 1, 2 and 3.
 Version: 1.25.2
 Depends: mpg123-libs, ipkg
@@ -1500,8 +1513,8 @@ Maintainer: jcard
 
 Package: msmtp
 Filename: msmtp_1.8.11_arm.ipk
-Size: 52956
-SHA256sum: cf789d81c6d9894a7c844967ae7d39c5797e13f633293870e7af491981c665c0
+Size: 52962
+SHA256sum: 9605c47133c27073dbec749aab6197744082cc3f9ff2534e7781cb5e57ad704f
 Description: A SMTP (Simple Mail Transfer Program) client.
 Version: 1.8.11
 Depends: ipkg
@@ -1513,8 +1526,8 @@ Maintainer: jcard
 
 Package: mtd-utils
 Filename: mtd-utils_2.0.2_arm.ipk
-Size: 281641
-SHA256sum: 1e2ac4d8a5c296bfb5d0affec6f4b488381288c6c18afc2598c4a05a64994a45
+Size: 281631
+SHA256sum: 2e58595969d129cc23faa74d50b412a3717a66a76c9c18e05c7aa53cf0089a59
 Description: mtd and jffs utilities
 Version: 2.0.2
 Depends: lzo, ipkg
@@ -1526,8 +1539,8 @@ Maintainer: jcard
 
 Package: mxml
 Filename: mxml_3.1_arm.ipk
-Size: 17224
-SHA256sum: 6a435cd0d2d56a893edb5f6eeab8ec7025ed11e13d765e95b0f614e36a6cd21d
+Size: 17228
+SHA256sum: cd2b269fc9ed68d9b324ca198b8f3a158adf57845951aae4a1ac3eaab389a737
 Description: Mini-XML is a small XML library that you can use to read
  and write XML and XML-like data files in your application
 Version: 3.1
@@ -1540,8 +1553,8 @@ Maintainer: jcard
 
 Package: nano
 Filename: nano_4.9.3_arm.ipk
-Size: 74838
-SHA256sum: 5b979dbc68d200b61e6aa1cf8e47731d2ad31ef8deb8ee374fabd8e5410721ac
+Size: 74847
+SHA256sum: c85b4cb26f851ff2bc5e104a5c0d4c1c69726a395b505eba6bf459070d5fa6df
 Description: A nice ncurses-based editor. Started out as a clone of pico. Great editor for new users.
 Depends: ncursesw, file, bzip2, ipkg
 Version: 4.9.3
@@ -1553,8 +1566,8 @@ Maintainer: jcard
 
 Package: ncftp
 Filename: ncftp_3.2.6_arm.ipk
-Size: 444561
-SHA256sum: 3bb9e6f5614e032e1803d752e5635183bef7f58912ad81fc9d0254316e837a35
+Size: 444549
+SHA256sum: 852b1c82c08a71f1dd6bf2297b383e1015508add35e6839e184f7fa0dda8cca1
 Description: NcFTP Client is a set of FREE application programs implementing FTP.
 Version: 3.2.6
 Depends: ipkg
@@ -1566,8 +1579,8 @@ Maintainer: jcard
 
 Package: ncurses
 Filename: ncurses_6.1_arm.ipk
-Size: 137645
-SHA256sum: c7d56877ce16606707d3bb6114203cec1ed74311baeda9c5fdb7b0364835b945
+Size: 137702
+SHA256sum: b690c47e0515353fd5d9cd51c11cd1fa7e73d93d57362ad8aa83e26f7dfe30ec
 Description: The Ncurses (new curses) library is a free software emulation of curses in SVR4.
 Depends: ipkg
 Version: 6.1
@@ -1579,8 +1592,8 @@ Maintainer: jcard
 
 Package: ncursesw
 Filename: ncursesw_6.0_arm.ipk
-Size: 152172
-SHA256sum: 1133f0f877b65a020cb63e3d983eaa55f78fd939520ed65bfb0a81bc3a237b36
+Size: 152108
+SHA256sum: d3ef38dbf57e671647308c1bb7231a61a5a45b49ebfe69c3c8c2e360ab7fde2e
 Description: The Ncurses (new curses) library is a free software emulation of curses in SVR4. (Wide Char)
 Depends: ipkg
 Version: 6.0
@@ -1593,7 +1606,7 @@ Maintainer: jcard
 Package: neon
 Filename: neon_0.30.2_arm.ipk
 Size: 33859
-SHA256sum: 2f4deb82a11058cf1d947fca14e47a5a2405f69ed5cf48e50dd1cc98b2bfd2bc
+SHA256sum: ed709aea9c518cd4f6c977f3c8955e5c90e470e7c1f3cb8e1dbb9c8e2e02dc8a
 Description: HTTP and WebDAV client library, with a C interface.
 Version: 0.30.2
 Depends: ipkg, libxml2
@@ -1607,8 +1620,8 @@ Package: netatalk
 Version: 3.1.12
 Depends: db, acl, libgcrypt, avahi, libevent2, ipkg
 Filename: netatalk_3.1.12_arm.ipk
-Size: 385563
-SHA256sum: 3f0481be270fcde0ce788a63c3c7951026cbfaafd293c04f75701898973d950c
+Size: 385430
+SHA256sum: ba84c35a130c7b1ef2a41e7e62e5822d876c69e9320072d0c1da0bc471c4b5c2
 Description: A AFP (Apple Filling Protocol) fileserver
 Architecture: arm
 Priority: optional
@@ -1618,8 +1631,8 @@ Maintainer: jcard
 
 Package: netperf
 Filename: netperf_2.7.0_arm.ipk
-Size: 149032
-SHA256sum: 3c1e7643508a99b0b329984433ab8e986e9890a569bdc89739c7d9babca08d24
+Size: 148995
+SHA256sum: d8402a5f855e70ada4850a594a3a0acb062ac8675cdde196c06ec4f279fb9ebd
 Description: A benchmark that can be used to measure the performance of many different types of networking.
 Version: 2.7.0
 Depends: ipkg
@@ -1631,8 +1644,8 @@ Maintainer: jcard
 
 Package: netsnmp
 Filename: netsnmp_5.8_arm.ipk
-Size: 772036
-SHA256sum: 5708c8815004ec63bc424ba9774ca6611b19acf31ed6d5e5865d10c2efcd4ad2
+Size: 772181
+SHA256sum: 517bb4264c74114328982fa0bbff8ed978e825b2cd706b4864e4c51951211021
 Description: Suite of applications used to implement SNMP v1, SNMP v2c, and SNMP v3 using both IPv4 and IPv6.
 Depends: ipkg
 Version: 5.8
@@ -1644,8 +1657,8 @@ Maintainer: jcard
 
 Package: nfs-utils
 Filename: nfs-utils_2.5.1_arm.ipk
-Size: 267411
-SHA256sum: 08f2db5daba34a68f3fd6672ebef71e6b62504b607e3b07956936b54eb1c2f0f
+Size: 267441
+SHA256sum: 5bed4f2ab762a6ecf7585dff1fc2ea4f02428c24cccdd2601834e1b859969937
 Description: The NFS Linux kernel server.
 Version: 2.5.1
 Depends: ipkg
@@ -1657,8 +1670,8 @@ Maintainer: jcard
 
 Package: nmap
 Filename: nmap_7.80_arm.ipk
-Size: 2255417
-SHA256sum: d1cf481be58746d0bb5c7b91b712ecb70b771f80f7b7322081302447b8ce6269
+Size: 2255448
+SHA256sum: ba24b12fb6b3b84c17818a1d42e43ac28662c0694e66c5acb07766338c5a3ed8
 Description: A free and open source utility for network exploration or security auditing.
 Version: 7.80
 Depends: ipkg, pcre
@@ -1670,8 +1683,8 @@ Maintainer: jcard
 
 Package: ntfs-3g-ntfsprogs
 Filename: ntfs-3g-ntfsprogs_2017.3.23_arm.ipk
-Size: 161768
-SHA256sum: 3fcac9978dd3b5df1e145a413303336fc14de93a00ae532bc5ed9de3d5fe212d
+Size: 161687
+SHA256sum: a3af9214280a28c487a73127264ee32a6ab97fbc9da084da148d1b2f14ea352f
 Description: Additional NTFS programs to the ntfs-3g package
 Version: 2017.3.23
 Depends: ntfs-3g, ipkg
@@ -1683,8 +1696,8 @@ Maintainer: jcard
 
 Package: ntfs-3g
 Filename: ntfs-3g_2017.3.23_arm.ipk
-Size: 241851
-SHA256sum: be037a868ccb6c6a1865a90d35539fe35669f976325329bbf50fba7973fc1a90
+Size: 241999
+SHA256sum: 1a35a114f3db0f7fdfdbc6adbcf2cb4b24a312334a84de901c55020932afa706
 Description: A stable, read-write NTFS driver for Linux and other operating systems.
 Version: 2017.3.23
 Depends: ipkg
@@ -1697,7 +1710,7 @@ Maintainer: jcard
 Package: ntp
 Filename: ntp_4.2.8p15_arm.ipk
 Size: 2047
-SHA256sum: bb3750e57a406d4b6bc03f59444509ad0a49bdc942a5439c09ec4a05770ac62e
+SHA256sum: 0fe896c3285355e4904d46c1a1c10a0f0f3a39d20f956d28986b4816f1d5961f
 Description: Network Time Protocol suite/programs
 Version: 4.2.8p15
 Depends: ntp-common, ipkg
@@ -1709,8 +1722,8 @@ Maintainer: jcard
 
 Package: openssh
 Filename: openssh_8.3p1_arm.ipk
-Size: 1191704
-SHA256sum: 9f4503136ba092355a02931dc82b6ffc95b9283b6f93121e57a4901332a187da
+Size: 1191806
+SHA256sum: 7c8492e0510a5f7cfb85ec5641f1a703d7996c2c560add06b3feec1074aebc06
 Description: A free version of the SSH protocol suite of network connectivity tools.
 Version: 8.3p1
 Depends: ipkg, openssl
@@ -1722,8 +1735,8 @@ Maintainer: jcard
 
 Package: openssl
 Filename: openssl_1.0.2u_arm.ipk
-Size: 1500425
-SHA256sum: e01c728277b31919996ea6b602479f18f2504bab2951f07cd4b1603aa66894f5
+Size: 1500388
+SHA256sum: 810d6778be2e3e04830fde229a92ad429f1c72780bd9ff56a40a2ef005262ab8
 Description: The Secure Sockets Layer (SSL v2/v3), Transport Security (TLS v1) and cryptography libraries.
 Version: 1.0.2u
 Depends: ipkg
@@ -1735,8 +1748,8 @@ Maintainer: jcard
 
 Package: openvpn
 Filename: openvpn_2.4.9_arm.ipk
-Size: 245050
-SHA256sum: 5020d87c02ce30ab994a680afb9fabe95768ebb99293b7f632246d90ab3c2f10
+Size: 245038
+SHA256sum: 58170ab9ff4370850911ec6d1da97e23dc827baa4e95613162766f8c9b664bf9
 Description: A full-featured SSL VPN solution
 Version: 2.4.9
 Depends: kernel-modules, bridge, lzo, ipkg
@@ -1748,8 +1761,8 @@ Maintainer: jcard
 
 Package: ortp
 Filename: ortp_4.3.1_arm.ipk
-Size: 60678
-SHA256sum: e13030582682e0ee5e15fe057bd6da716b66e24bd3099360e321940b3054aa3d
+Size: 60671
+SHA256sum: bc77ab491bf3e6d7d94621c6d3ae10e084001ba5cb75ba6d5a8d9ebb177ddf82
 Description: 	  oRTP, a Real-time Transport Protocol (RTP,RFC3550) library
 	  http://www.linphone.org/eng/documentation/dev/ortp.html
 Version: 4.3.1
@@ -1762,8 +1775,8 @@ Maintainer: jcard
 
 Package: p7zip
 Filename: p7zip_16.02_arm.ipk
-Size: 253777
-SHA256sum: 1fed33198cc1d313539482671d9621f12a3a637dd32c3b795890ae1cfe088886
+Size: 253783
+SHA256sum: 657223d413889da4ddd1c7d0fbc431c0c9f3bd21faa0c6e9aa99b081e6541c1a
 Description: a quick port of 7-zip for Unix.
 Version: 16.02
 Depends: ipkg
@@ -1777,8 +1790,8 @@ Package: pcre
 Depends: ipkg
 Version: 8.44
 Filename: pcre_8.44_arm.ipk
-Size: 91506
-SHA256sum: eb4fab5d42182714f7c3f41f441557128321abd30e48cdf265ea786bb7f37ecc
+Size: 91474
+SHA256sum: 166a394279e8e6577044ebea5d43bf14c3b7e593846990bdfc3587ccd65aa41f
 Description: Perl Compatible Regular Expressions
 Architecture: arm
 Priority: optional
@@ -1788,8 +1801,8 @@ Maintainer: jcard
 
 Package: perl
 Filename: perl_5.30.3_arm.ipk
-Size: 9751157
-SHA256sum: bceb764cec7cf727a6a27e708477b68411f8901b568eb7baab1c38320fcb5ebe
+Size: 9751738
+SHA256sum: 4bdff753c26e405621921267de2dc7f55abc8887fc4cabe140b8da43e0ef6da4
 Description: Practical Extraction and Report Language
 Version: 5.30.3
 Depends: groff, ipkg
@@ -1801,8 +1814,8 @@ Maintainer: jcard
 
 Package: php
 Filename: php_7.4.9_arm.ipk
-Size: 4427827
-SHA256sum: 30f45543ee783759661a677862a733269ab23c238f3dc0e6a51d386fb8be4f11
+Size: 4428119
+SHA256sum: cefda86d11ea633386b4a3cddb9e10c30fbc029cba8e793dab7b98bf34bbec5a
 Description: A widely-used general-purpose scripting language
 Version: 7.4.9
 Depends: ipkg, bzip2, netsnmp, libjpeg, libpng, libxml2, ncurses, curl, libmcrypt
@@ -1814,8 +1827,8 @@ Maintainer: jcard
 
 Package: popt
 Filename: popt_1.16-1_arm.ipk
-Size: 18323
-SHA256sum: 8b8718ac7f1fe1ae8144fa9b00fe19f825e1f1965d6711f57e68df09f4b5614d
+Size: 18327
+SHA256sum: 3d73bf90e84888ea94ab85169a015014dc8781d47d56b542f4317e868466e58c
 Description: A C library for parsing command line parameters.
 Version: 1.16-1
 Depends: ipkg
@@ -1827,8 +1840,8 @@ Maintainer: jcard
 
 Package: pptp-linux
 Filename: pptp-linux_1.10.0_arm.ipk
-Size: 26326
-SHA256sum: a40d26f9b071b3940d094ff3c6a1053d1ee70d1bbe721b9aece1ee4075e8ef31
+Size: 26347
+SHA256sum: a2d997ec18d63dc2a30bfbe836bac6723beaeef966b591f0229bf81225c11aee
 Description: 	  An implementation of the Point-to-point protocol client.
 	  http://pptpclient.sourceforge.net/
 Version: 1.10.0
@@ -1841,8 +1854,8 @@ Maintainer: jcard
 
 Package: python-setuptools
 Filename: python-setuptools_44.0.0_arm.ipk
-Size: 1069
-SHA256sum: b6a4287404d22b07967d7cb190618bb507e23b6276179c6b8a2432a485635cce
+Size: 1063
+SHA256sum: a5fed201d69198a9c70daa3d3d3ab9852f8d88f11592f324263110fb1d79c714
 Description: 	  Download, build, install, upgrade, and uninstall Python packages.
 	  http://pypi.python.org/pypi/setuptools
 Version: 44.0.0
@@ -1855,8 +1868,8 @@ Maintainer: jcard
 
 Package: python
 Filename: python_2.7.18_arm.ipk
-Size: 589455
-SHA256sum: 3944de14fb1a6715fb1f40d39aa90129fda5573a2d2946d398214b8188a58b6e
+Size: 589454
+SHA256sum: 8c0aa67c16cbfdbdecbde777bab69ff441b42a4a1d136f252ad2503f3c157485
 Description: The python language interpreter.
 Version: 2.7.18
 Depends: ncurses, ncurses-panel, readline, gettext, expat, sqlite, db, gdbm, bzip2, libffi
@@ -1868,8 +1881,8 @@ Maintainer: jcard
 
 Package: quota
 Filename: quota_4.05_arm.ipk
-Size: 348828
-SHA256sum: 846a6a09d98771fe95c5ba0308c8ddbc574734557de246c7cf71d4acc7af21c8
+Size: 347691
+SHA256sum: fe26f3c04ebc89bc923ebf7d0ba74098f4a254f00f6a8cc74bd550611064b52b
 Description: Implementation of the disk quota system.
 Version: 4.05
 Depends: libtirpc, gettext, ipkg
@@ -1882,8 +1895,8 @@ Maintainer: jcard
 Package: readline
 Version: 8.0
 Filename: readline_8.0_arm.ipk
-Size: 113467
-SHA256sum: b82165b155a0673e7f7645f8be6a2e71abbf33031114ec8b8eb097cdfc86dd94
+Size: 113460
+SHA256sum: 8e4d9452176b77b864539ddce92a95ab469852a4b4fb9a425e40b1ac7956b069
 Description: The GNU readline library
 Depends: ncurses, ipkg
 Architecture: arm
@@ -1894,8 +1907,8 @@ Maintainer: jcard
 
 Package: rpcbind
 Filename: rpcbind_1.2.5_arm.ipk
-Size: 24478
-SHA256sum: 31e5307449e7167f58d59e3a46b9a881c54407dd3a13b4acafad23882138df57
+Size: 24485
+SHA256sum: 4bbca5ce0ae1ceee302dbe92020d585048db6dbefb701a573589496cc16df3c9
 Description: 	  The rpcbind utility is a server that converts RPC program numbers
 	  into universal addresses.
 Version: 1.2.5
@@ -1908,8 +1921,8 @@ Maintainer: jcard
 
 Package: rsync
 Filename: rsync_3.1.3_arm.ipk
-Size: 174974
-SHA256sum: a22a3e788317a65050e8c25e70009fe8d7e6719cbb92bd3d994c0f8f5f914a69
+Size: 175080
+SHA256sum: 07d718997554b88745699adfcb9e4419203db29a627db0427a48b6f94dce4bc0
 Description: File transfer program to keep remote files in sync.
 Version: 3.1.3
 Depends: ipkg
@@ -1921,8 +1934,8 @@ Maintainer: jcard
 
 Package: samba-small
 Filename: samba-small_4.10.17_arm.ipk
-Size: 5836235
-SHA256sum: 189a11b0628ff1ae61c3db200085af18d499fdd1da62af91ff977f3dba423c66
+Size: 5842540
+SHA256sum: 447f739d87072ea553096f1dff657c263d67b6c123cedcb6b280a7e30c0c0997
 Description: A stripped-down version of Samba.
 Depends: zlib, popt, ipkg
 Version: 4.10.17
@@ -1934,8 +1947,8 @@ Maintainer: jcard
 
 Package: sane-backends
 Filename: sane-backends_1.0.27_arm.ipk
-Size: 3590510
-SHA256sum: 1066795972cd288fe02f926ed3ce97b996871ba5b39e15df3300a317df2277bb
+Size: 3590593
+SHA256sum: e1e546d76a61d4076b76132fc00a36255f29e2fc4305be71dc77f1627a8bc579
 Description: 	  SANE - Scanner Access Now Easy
 	  http://www.sane-project.org
 	  Backends are included automatically based on the libraries that have
@@ -1951,8 +1964,8 @@ Maintainer: jcard
 
 Package: screen
 Filename: screen_4.8.0_arm.ipk
-Size: 429195
-SHA256sum: 491d28571d6ad83ef516f79dd5e4df3437651300cb76e3508fb90c24767abfb9
+Size: 429123
+SHA256sum: 6cb2bb14548d6ec2aa025ca0387f1f94bfa02a58b7eb3a81e31a2fef8ab86aaf
 Description: A full-screen window manager that multiplexes a physical terminal between several processes.
 Version: 4.8.0
 Depends: ncurses, ipkg
@@ -1964,8 +1977,8 @@ Maintainer: jcard
 
 Package: slang
 Filename: slang_2.3.2_arm.ipk
-Size: 451249
-SHA256sum: 410a409fc4e27bed2202ab878acc3ce3462722ac1f7f2ef58e84a7674c56acaa
+Size: 451332
+SHA256sum: 3d0739c9c8d02daf8e1571843fec46b24ab355d8f8a28bdf243a996ce849df33
 Description: Multi-platform console display library
 Version: 2.3.2
 Depends: pcre, readline, libpng, libiconv, ipkg
@@ -1978,8 +1991,8 @@ Maintainer: jcard
 
 Package: smartmontools
 Filename: smartmontools_7.1_arm.ipk
-Size: 431359
-SHA256sum: 5014beac6378f0c0a27932fd3b01c755dffdf5590114a959587b0f04fe0a2c07
+Size: 431236
+SHA256sum: 406a8f3ddca066d26dbec70c6165d82b2bbbdd817619d100d73fc8848cd3949f
 Description: Control and monitor storage systems using S.M.A.R.T.
 Version: 7.1
 Depends: libstdc++, ipkg
@@ -1991,8 +2004,8 @@ Maintainer: jcard
 
 Package: socat
 Filename: socat_1.7.3.4_arm.ipk
-Size: 144107
-SHA256sum: 6cfa2dc2883244d973693d876d32ef4d400624542c271efbf300d5e0332607b5
+Size: 144154
+SHA256sum: 71b1fca352d45498144d03c841190d784dbbe8245985d8772ebe4772ba656406
 Description: Multipurpose socket relay program.
 Version: 1.7.3.4
 Depends: ipkg
@@ -2004,8 +2017,8 @@ Maintainer: jcard
 
 Package: sox
 Filename: sox_14.4.2_arm.ipk
-Size: 270136
-SHA256sum: 02fc56e166bd853cbe3a7d05a8bada44b501ae4ed42732320c0f770e3e1b5021
+Size: 270155
+SHA256sum: 81aeceacacd1d6cab2a886ad83ebb5da1798bd009152421238bb9ea751aceaba
 Description: 	  SoX is a cross-platform (Windows, Linux, MacOS X, etc.) command line
 	  utility that can convert various formats of computer audio files
 	  into other formats.
@@ -2023,8 +2036,8 @@ Maintainer: jcard
 Package: sqlite
 Version: 3320300
 Filename: sqlite_3320300_arm.ipk
-Size: 491894
-SHA256sum: 369a46e251cca8b7611930f170ca714cf04c406519d1dd46e2eaf96e78fd70a3
+Size: 491910
+SHA256sum: b2b5e495db79fc92cc668bf3168d5bcbe1dc646a3a8ee02dfdf0ae5bb3b4bf4b
 Description: A small C library that implements a self-contained, embeddable, zero-configuration SQL database engine.
 Depends: sqlite, ipkg
 Architecture: arm
@@ -2037,8 +2050,8 @@ Package: strace
 Depends: ipkg
 Version: 5.7
 Filename: strace_5.7_arm.ipk
-Size: 284587
-SHA256sum: 0e578e29933a5770eb53d9c2388270c7eba6ed7e5d8f440918b80b684114d088
+Size: 284797
+SHA256sum: cb3ebb4fa9ef04556538684901f6132843050bdcee30039f5679fb51aec6934c
 Description: A useful diagnostic, instructional, and debugging tool.
  Allows you to track what system calls a program makes while it is running.
 Architecture: arm
@@ -2049,8 +2062,8 @@ Maintainer: jcard
 
 Package: stunnel
 Filename: stunnel_5.56_arm.ipk
-Size: 73144
-SHA256sum: b988ba62571c1ad64dfbce268fb5b404662e10ab5c54e0b2e2fca32e459a7bd9
+Size: 73071
+SHA256sum: b4581f7d3599b1bb6a631c8c424edb71f5d77011bc92988167ebd10d1ce88a67
 Description: A utility that utilised OpenSSL to wrap plaintext TCP communications with SSL.
 Version: 5.56
 Depends: ipkg
@@ -2062,8 +2075,8 @@ Maintainer: jcard
 
 Package: sudo
 Filename: sudo_1.8.31_arm.ipk
-Size: 422442
-SHA256sum: d9f0643ca87e8a84eb47d17bbaf021e2ef2b8cdf74098c2ad9bbac1564ab4b54
+Size: 422527
+SHA256sum: d369f36b136294051f757e34d5207bc94ab5ead802e21ccc290f8a0317c609be
 Description: Allows a sysadmin to give limited root privileges to users.
 Version: 1.8.31
 Depends: ipkg
@@ -2075,8 +2088,8 @@ Maintainer: jcard
 
 Package: sysstat
 Filename: sysstat_12.2.1_arm.ipk
-Size: 268433
-SHA256sum: 6dc239396756d6e3b11548ae985562524c50ab54c806ff371630d907d0d0e10a
+Size: 268266
+SHA256sum: c8daf70445ee56a608af02e96a3712c91addb5a9274564775e29a625e9c738be
 Description: A collection of performance monitoring tools for Linux
 Version: 12.2.1
 Depends: ipkg
@@ -2088,8 +2101,8 @@ Maintainer: jcard
 
 Package: tcpdump
 Filename: tcpdump_4.9.3_arm.ipk
-Size: 316087
-SHA256sum: bf75fdeebe6b802b7143712cc94788f850363f33105f63ac2bf23744407fe10f
+Size: 316036
+SHA256sum: 32d9705868fce8f45ad966cac6c3257c40fe7162e4900b095511b49f8ebf1bb2
 Description: A tool for network monitoring and data acquisition.
 Version: 4.9.3
 Depends: libpcap, ipkg
@@ -2101,8 +2114,8 @@ Maintainer: jcard
 
 Package: tiff
 Filename: tiff_4.1.0_arm.ipk
-Size: 308542
-SHA256sum: 51e2e9cceacb4382f8c482271d1a4d9a41119ec24284ba93372f3cdc6372fa17
+Size: 308488
+SHA256sum: bef52a2e1134b9842adab6db4713c4903d7030348b9461903ae3234e0397c7ec
 Description: Library for handling TIFF (Tag Image File Format) images.
 Version: 4.1.0
 Depends: libjpeg, ipkg
@@ -2114,8 +2127,8 @@ Maintainer: jcard
 
 Package: transmission
 Filename: transmission_2.94_arm.ipk
-Size: 1307588
-SHA256sum: 023c46f2194afae36c1c766bf40fd9dfb0c03681ccd0c3a500c5743c0495bb7b
+Size: 1307566
+SHA256sum: d24848607341322715639a2cdd034f8c94b2d543262c237909e302f9d8e95bce
 Description: A Fast, Easy and Free Bittorrent client
 Version: 2.94
 Depends: curl, libevent2, ipkg
@@ -2127,8 +2140,8 @@ Maintainer: jcard
 
 Package: twolame
 Filename: twolame_0.4.0_arm.ipk
-Size: 58429
-SHA256sum: c8be7da0a4d4f4bc9b1945c442ab510c7e0d9a9627785b419b99a259bf32ef40
+Size: 58454
+SHA256sum: 5d10b9c13c36db949a6c4e8ab89bb56d5fecfc56c5998ba4609ba098654507c0
 Description: An optimized MPEG Audio Layer 2 encoder
 Version: 0.4.0
 Depends: ipkg
@@ -2140,8 +2153,8 @@ Maintainer: jcard
 
 Package: uemacs
 Filename: uemacs_1cdcf9df88144049750116e36fe20c8c39fa2517_arm.ipk
-Size: 44589
-SHA256sum: 0c087ab26a81f2c1c4996274a9acc5dfb7e78939819d0933cc5ce7efea7b4ae6
+Size: 44662
+SHA256sum: 9ea03172c1c40db1192332496d3c0ee4c4e372bfd8b544791236331847103b32
 Description: A small emacs.	  
 Version: 1cdcf9df88144049750116e36fe20c8c39fa2517
 Depends: ncurses , ipkg
@@ -2153,8 +2166,8 @@ Maintainer: jcard
 
 Package: unrar
 Filename: unrar_5.9.3_arm.ipk
-Size: 104055
-SHA256sum: ccba60d34aa23af229f98f2ba3ccd520f52f9ebd06f66af69404e5da92d091c7
+Size: 104059
+SHA256sum: 48c789c0c2ab3e2c23057dbf4f4bc841e19cad6e926e773881634586ac0e3a1f
 Description: Portable UnRAR - free utility for RAR archives. Provides unrar decompressor
 Depends: ipkg
 Version: 5.9.3
@@ -2166,8 +2179,8 @@ Maintainer: jcard
 
 Package: util-linux
 Filename: util-linux_2.35.2_arm.ipk
-Size: 483604
-SHA256sum: e4d6e76e61d6e197076077032d7588a2033a34b73a8c7ddb38d8bfb71a156380
+Size: 483710
+SHA256sum: 164e850a7b266bfe999f20125381e765066246d67e491d5dc911480646717a49
 Description: Various useful/essential linux libraries and utilities.
 Version: 2.35.2
 Depends: gettext, ipkg
@@ -2179,8 +2192,8 @@ Maintainer: jcard
 
 Package: vsftpd
 Filename: vsftpd_3.0.3_arm.ipk
-Size: 51691
-SHA256sum: c2d3cf790be7626b5fb16f86d55f216a0e2bb01b105916f2a5fde4f838434754
+Size: 51564
+SHA256sum: dafc0c80a4e36ccbc7d3862e11ac17d372ef69b1f95afb5e536cf968d6618430
 Description: An ftp daemon written with security in mind.
 Version: 3.0.3
 Depends: ipkg
@@ -2192,8 +2205,8 @@ Maintainer: jcard
 
 Package: wavpack
 Filename: wavpack_5.3.0_arm.ipk
-Size: 151730
-SHA256sum: cd5411204b0a1865f51262ad0721786464407cc823334520a8adb36329bf2d94
+Size: 151734
+SHA256sum: a75e5f687d6aeca0c91a53020b7448ebe81396fb405885de0021ab3c6a001f0f
 Description: 	  WavPack is a completely open audio compression format
 	  providing lossless, high-quality lossy, and a unique
 	  hybrid compression mode.
@@ -2208,8 +2221,8 @@ Maintainer: jcard
 
 Package: wireless_tools
 Filename: wireless_tools_30.pre9_arm.ipk
-Size: 32244
-SHA256sum: 7a236d73b59c76177746b31e6483869770fb982c1865cfb382f8a99e3e0d29cc
+Size: 32240
+SHA256sum: c9557171f1a31503e1660e86069a7fd4aaf992f88a96c5c6b405d0f21827c8cd
 Description: 	  A collection of tools to configure wireless lan cards.
 	  http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
 Version: 30.pre9
@@ -2222,8 +2235,8 @@ Maintainer: jcard
 
 Package: wpa_supplicant
 Filename: wpa_supplicant_2.9_arm.ipk
-Size: 350777
-SHA256sum: 6123a3f647a529ec72283d05bbf99e58d2b03fe9c38ca4feec5517d76ff58ea7
+Size: 350785
+SHA256sum: 0ba6dfc3dbd21b262193055e23bae99addee5f41bb1b1eb2c7a0fa1c840778c4
 Description: 	  WPA supplicant for secure wireless networks
 	  http://hostap.epitest.fi/wpa_supplicant/
 Version: 2.9
@@ -2236,8 +2249,8 @@ Maintainer: jcard
 
 Package: xz
 Filename: xz_5.2.5_arm.ipk
-Size: 106412
-SHA256sum: 4a06b0ce6f14dba19c8893f34cfabe631fbd114fb08cbd8a010ab71a5e3be692
+Size: 106416
+SHA256sum: 1d8544c09dc3195bc73201d7fb06c524b9f939679c4a5ca0be5ad9da0cb19117
 Description: provide a general-purpose data-compression library plus command-line tools.
 Version: 5.2.5
 Depends: ipkg
@@ -2249,8 +2262,8 @@ Maintainer: jcard
 
 Package: zlib
 Filename: zlib_1.2.11_arm.ipk
-Size: 39496
-SHA256sum: 116e9bc534e023f2c753a4f4da574e6e6309d597c75e43ae8fa240614125ba8a
+Size: 39508
+SHA256sum: a7eee43ca62eb3752d85a44a771696dcd7ca42e7c4f8ea4591a71aaf77550a2c
 Description: Standard (de)compression library. Used by things like gzip and libpng.
 Version: 1.2.11
 Depends: ipkg
